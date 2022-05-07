@@ -15,8 +15,8 @@
     },
     "env": {
       "urllokaal": "",
-      "username": "",
-      "password": "",
+      "USERNAME": "Feed the cat",
+      "PASSWORD": "",
       "domain": "",
       "db": {
         "user": "",
